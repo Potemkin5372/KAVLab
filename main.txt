@@ -9,5 +9,5 @@ QPushButton button("Hello, World!");
 button.resize(200, 60);
 button.show( );
  
-this line changed
+return app.exec( );
 }
